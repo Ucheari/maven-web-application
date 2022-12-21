@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.2-SNAPSHOT</version> 
+	<version>0.0.2</version> 
 	
 	<name>maven-web-application</name>
 
@@ -95,13 +95,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Aritech Releases Nexus Repository</name>
-	      <url>http://184.73.239.231:8081/repository/Landmark-p-releases/</url>
+	      <url>http://172.31.72.0:8081/repository/Landmark-p-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Aritech Snapshot Nexus Repository</name>
-	      <url>http://184.73.239.231:8081/repository/Landmark-project-snapshot/</url>
+	      <url>http://172.31.72.0:8081/repository/Landmark-project-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
